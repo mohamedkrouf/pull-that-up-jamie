@@ -31,6 +31,19 @@ body {
   cursor: pointer;
 }
 
+/* VECTOR METHOD TOGGLE (below model toggle) */
+.vector-method-toggle {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
 /* LOGO */
 .logo {
   display: block;
