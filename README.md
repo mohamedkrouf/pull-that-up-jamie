@@ -121,9 +121,9 @@ Each result card displays:
 
 ## 🖼️ Screenshots
 
-(homePage.png)
+![Homepage](homePage.png)
 
-(searchResult.png)
+![Search Results](searchResult.png)
 
 ---
 
